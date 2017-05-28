@@ -15,6 +15,10 @@ Project created for [fictional-umbrella][1]
 ansible-playbook playbook.yml -kK
 ```
 
+# Infra topology
+
+[![topology](/topology.png)](/topology.png)
+
 # Hands on guide
 
 [![asciicast](https://asciinema.org/a/1y58sz24xssfbgtchfvh4z9uc.png)](https://asciinema.org/a/1y58sz24xssfbgtchfvh4z9uc)
