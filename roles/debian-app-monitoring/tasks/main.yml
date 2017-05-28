@@ -4,4 +4,8 @@
     repo: 'https://github.com/dminca/fictional-umbrella.git'
     dest: /srv/checkout
 
+- name: launch the stack
+  shell: docker-compose up --build -d
+  args:
+    chdir: /srv/checkout
 
