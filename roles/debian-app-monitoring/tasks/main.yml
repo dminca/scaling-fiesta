@@ -3,6 +3,8 @@
   git:
     repo: 'https://github.com/dminca/fictional-umbrella.git'
     dest: /srv/checkout
+    force: true
+    update: true
 
 - name: launch the stack
   shell: docker-compose up --build -d
