@@ -15,5 +15,9 @@ Project created for [fictional-umbrella][1]
 ansible-playbook playbook.yml -kK
 ```
 
+# Hands on guide
+
+[![asciicast](https://asciinema.org/a/1y58sz24xssfbgtchfvh4z9uc.png)](https://asciinema.org/a/1y58sz24xssfbgtchfvh4z9uc)
+
 [1]: https://github.com/dminca/fictional-umbrella
 [2]: http://docs.ansible.com/ansible/intro_installation.html
