@@ -1,0 +1,7 @@
+---
+- name: clone the repo
+  git:
+    repo: 'https://github.com/dminca/fictional-umbrella.git'
+    dest: /srv/checkout
+
+

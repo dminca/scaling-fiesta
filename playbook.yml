@@ -2,3 +2,5 @@
   roles:
     - { role: debian-docker-toolbox,
         docker_repo: stable }
+    - debian-app-monitoring
+
