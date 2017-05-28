@@ -11,7 +11,8 @@ Project created for [fictional-umbrella][1]
 # Run the playbook
 
 ```sh
-ansible-playbook playbook.yml
+# prompt for sudo & SSH pass
+ansible-playbook playbook.yml -kK
 ```
 
 [1]: https://github.com/dminca/fictional-umbrella
